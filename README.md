@@ -1,12 +1,6 @@
 <h1 align="center"> Hello, I'm Paramesh Chandra 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Researcher in Solid State Physics </h3> <br>
-<p align="center"> 
-
-<a href="https://twitter.com/SulthanNK"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
-
-</p>
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
